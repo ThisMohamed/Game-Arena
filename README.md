@@ -32,44 +32,10 @@ Assignment-6/
 ├── js/
 │   └── bootstrap.bundle.min.js
 ├── images/
-│   ├── favicon.png
-│   ├── hero-bg.jpg
-│   ├── hero-img.png
-│   ├── latest-games-*.png
-│   ├── avatar-*.png
-│   ├── logo-*.jpg
-│   └── what-we-do-*.png
+│   ├── (Project images)
+│  
 └── README.md
 ```
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Optional: Local development server
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/ThisMohamed/Game-Arena.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd gamearena
-```
-
-3. Open `index.html` in your browser or use a local server:
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js (with http-server)
-npx http-server
-```
-4. Visit `http://localhost:8000` in your browser
 
 ## 📱 Sections
 
@@ -90,30 +56,6 @@ npx http-server
 - Infinite logo scroll animation
 - Smooth gradient transitions on buttons
 
-### Responsive Breakpoints
-- Mobile: < 576px
-- Tablet: 576px - 991px
-- Desktop: > 992px
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👨‍💻 Author
 
 Mohamed Ahmed - [My GitHub](https://github.com/ThisMohamed)
-
-## 🙏 Acknowledgments
-
-- Font Awesome for icons
-- Google Fonts for typography
-- Bootstrap team for the framework
-- All game images and assets used for demonstration purposes
-
----
-
-⭐ Star this repo if you find it helpful!
